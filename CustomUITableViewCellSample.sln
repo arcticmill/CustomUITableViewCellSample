@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomUITableViewCellSample", "CustomUITableViewCellSample\CustomUITableViewCellSample.csproj", "{FE2FC848-B69C-4741-A28D-0EDC0885A0BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE2FC848-B69C-4741-A28D-0EDC0885A0BB}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{FE2FC848-B69C-4741-A28D-0EDC0885A0BB}.Debug|iPhone.Build.0 = Debug|iPhone
+		{FE2FC848-B69C-4741-A28D-0EDC0885A0BB}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{FE2FC848-B69C-4741-A28D-0EDC0885A0BB}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{FE2FC848-B69C-4741-A28D-0EDC0885A0BB}.Release|iPhone.ActiveCfg = Release|iPhone
+		{FE2FC848-B69C-4741-A28D-0EDC0885A0BB}.Release|iPhone.Build.0 = Release|iPhone
+		{FE2FC848-B69C-4741-A28D-0EDC0885A0BB}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{FE2FC848-B69C-4741-A28D-0EDC0885A0BB}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = CustomUITableViewCellSample\CustomUITableViewCellSample.csproj
+	EndGlobalSection
+EndGlobal
